@@ -87,7 +87,7 @@ The Hospital Management System is a comprehensive web application designed to st
 3. Download and extract the zip file.
 4. Copy the "Hospital_Management_System" folder to the root directory (e.g., xampp/htdocs).
 5. Open PHPMyAdmin (http://localhost/phpmyadmin) and create a database named "hospital."
-6. Import the "hospital.sql" file from the "SQL file" folder in the zip package.
+6. Import the "hospital.sql" file from the "SQL file".
 7. Run the script at http://localhost/Hospital_Management_System.
 8. Use the following login credentials:
    - **Doctor:**
